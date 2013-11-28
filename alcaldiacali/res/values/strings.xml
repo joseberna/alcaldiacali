@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alcaldía de Santiago de Cali</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+  
+    
+    <string name="inicio">Inicio</string>
+    <string name="secretarias_dependencias">Secretarías y dependencias</string>
+    <string name="la_alcaldia">La Alcaldía</string>
+    <string name="santiago_cali">Santiago de Cali</string>
+    <string name="atencion_ciudadano">Atención al ciudadano</string>
+    <string name="mejoresofertas">Trámites y Servicios</string>
+    <string name="ubicate_cali">Ubícate en Cali</string>
+    <string name="rutas_mio">Rutas del MIO</string>
+    
+    <string-array name="menu_array">
+        <item>Inicio</item>
+        <item>Secretarías y dependencias</item>
+        <item>La Alcaldía</item>
+        <item>Santiago de Cali</item>
+        <item>Atención al ciudadano</item>
+        <item>Trámites y Servicios</item>
+        <item>Ubícate en Cali</item>
+        <item>Rutas del MIO</item>
+    </string-array>
+
+    
+   
+</resources>
