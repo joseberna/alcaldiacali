@@ -1,5 +1,6 @@
 package com.devandroid.alcaldiacali;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -15,6 +16,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 import android.widget.AdapterView.OnItemClickListener;
 
+@SuppressLint("NewApi")
 public class MainActivity extends FragmentActivity {
 
 	ListView drawer;
@@ -28,7 +30,7 @@ public class MainActivity extends FragmentActivity {
 			"com.devandroid.alcaldiacali.fragmentos.SantiagoCali",
 			"com.devandroid.alcaldiacali.fragmentos.AtencionCiudadano",
 			"com.devandroid.alcaldiacali.fragmentos.TramitesServicios",
-			"com.devandroid.alcaldiacali.fragmentos.UbicateCali",
+			"com.devandroid.alcaldiacali.fragmentos.MapaCaliFragment",
 			"com.devandroid.alcaldiacali.fragmentos.RutasMIO" };
 
 	@Override

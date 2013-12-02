@@ -1,0 +1,79 @@
+[{
+	tipo:0,
+	ubicacion:[3.451309,-76.533772],
+	titulo:"MUSEO RELIGIOSO Y COLONIAL DE SAN FRANCISCO",
+	descripcion:"Está a cargo de la comunidad franciscana, funciona desde 1940 con 350 piezas de arte religioso y artes decorativas, al igual un cuadro que hace honor a la novela de Jorge Isaac La María"
+},
+{
+	tipo:1,
+	ubicacion:[3.454779,-76.532914],
+	titulo:"PUENTE ORTIZ",
+	descripcion:"Inicialmente fue de uso vehicular y en la actualidad es de uso peatonal y comunica el centro con el norte de la ciudad."
+},
+{
+	tipo:1,
+	ubicacion:[3.451823,-76.532313],
+	titulo:"CATEDRAL DE SAN PEDRO",
+	descripcion:"inicia su construcción hacia el año de 1772 en un estilo barroco y por problemas de tipo político no se concluyó retrasándose su construcción y terminándose en 1841 pero ya en un estilo neoclásico"
+},
+{
+	tipo:2,
+	ubicacion:[3.451523,-76.536862],
+	titulo:"COMPLEJO RELIGIOSO LA MERCED",
+	descripcion:"Construido en el sitio en donde el 25 de Julio de 1536 se oficiara la primera misa en la ciudad con motivo de la fundación de la misma, misa realizada por Fray Santos de Añasco"
+},
+{
+	tipo:0,
+	ubicacion:[3.451523,-76.536862],
+	titulo:"MUSEO ARQUEOLÓGICO LA MERCED",
+	descripcion:"Esta edificación hace parte del complejo religioso pero funciona de manera independiente, apoyada por el Fondo de Promoción de la Cultura del Banco Popular, entidad que apoya la adecuación del museo."
+},
+{
+	tipo:0,
+	ubicacion:[3.451095,-76.535747],
+	titulo:"MUSEO DEL ORO CALIMA DEL BANCO DE LA REPÚBLICA",
+	descripcion:"sector histórico de la ciudad. Muestra una valiosa colección de piezas en oro, cerámica, conchas, piedra y etnográficos cronológicamente dispuestos y elaborados por la sociedad denominada complejo cultural Calima"
+},
+{
+	tipo:2,
+	ubicacion:[3.451095,-76.535747],
+	titulo:"CASA PROARTES",
+	descripcion:"Es una edificación de estilo neoclásico donde predomina el uso del ladrillo a la vista reflejando cierta influencia mudéjar"
+},
+{
+	tipo:2,
+	ubicacion:[3.443212,-76.537501],
+	titulo:"PARQUE ARTESANAL LOMA DE LA CRUZ",
+	descripcion:"Este un sitio no solo turístico sino un espacio para fomento del empleo y centro de exposición, aprendizaje, venta, fomento y rescate de la artesanía y sus productos"
+},
+{
+	tipo:2,
+	ubicacion:[3.431839,-76.542511],
+	titulo:"PARQUE PANAMERICANO",
+	descripcion:"Es un espacio creado como antesala a la unidad deportiva San Fernando donde se aprovecha el manejo de los pisos y el agua como eje central para la realización de eventos masivos de todo tipo."
+},
+{
+	tipo:1,
+	ubicacion:[3.45495,-76.532099],
+	titulo:"IGLESIA LA ERMITA",
+	descripcion:"Su nombre inicial fue el de Ermita de Nuestra Señora de la Soledad del Río"
+},
+{
+	tipo:1,
+	ubicacion:[3.45465,-76.532442],
+	titulo:"PARQUE DE LOS POETAS",
+	descripcion:"Construido en el año de 1995 y planeado como un espacio abierto a distintos niveles permitiendo la presentación de espectáculos públicos de todo género, se pensó además con este ofrecer un homenaje a la poesía vallecaucana"
+},
+{
+	tipo:2,
+	ubicacion:[3.450452,-76.536004],
+	titulo:"TEATRO JORGE ISAACS",
+	descripcion:"Fue inaugurado el 26 de diciembre de 1931 por iniciativa del señor ingeniero Hermann S. Bohmer en homenaje al escritor Jorge Isaacs"
+},
+{
+	tipo:1,
+	ubicacion:[3.449263,-76.545226],
+	titulo:"ESTATUA Y MIRADOR DE SEBASTIÁN DE BELALCÁZAR",
+	descripcion:"Sobre la colina del mismo nombre se levanta imponente el monumento al fundador de la ciudad, hecha en bronce"
+}
+]
